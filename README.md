@@ -4,7 +4,7 @@ Our algorithm: adsu_pq.m
 
 Easy example to run our algorithm: demo_easy.m
 
-Full comparision in DC1 of our paper: demo_DC1.m
+Full experiment with DC1 of our paper: demo_DC1.m
 
 Demo for real dataset: demo_real_datasets.m
 
