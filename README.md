@@ -18,4 +18,5 @@ w = normWeight(w);
 
 
 If you use the codes, please cite the following paper. Thank you very much.
+
 R. Wu, W. Luo, L. Gao, L. Ren and H. Gao, "Endmember Selection With Adaptive Double Prior Model," in IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-22, 2026, Art no. 5508122, doi: 10.1109/TGRS.2026.3664867.
