@@ -11,8 +11,11 @@ Demo for real dataset: demo_real_datasets.m
 SVM Classifier( one way to generate prior): classification.py
 
 With the classification result, we can use the following code to calculate the prior:
+
 w = ones(bands,nCol*nRow);
+
 w(sub2ind(size(w), classification_result, 1:length(classification_result))) = 0;
+
 w = normWeight(w);
 
 
